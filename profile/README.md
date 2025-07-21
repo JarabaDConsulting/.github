@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JarabaDConsulting/.github/main/profile/logojarabadconsulting.png" alt="JarabaDConsulting Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/JarabaDConsulting/.github/main/profile/JaroConsultingPropuesta2.png" alt="JarabaDConsulting Logo" width="200"/>
 </p>
 
 <h1 align="center">🌱 JAROConsulting - Plataforma Agrícola Integral 🌱</h1>
