@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/JarabaDConsulting/.github/main/profile/logojarabadconsulting.png" alt="JarabaDConsulting Logo" width="200"/>
 </p>
 
-<h1 align="center">🌱 JarabaDConsulting - Plataforma Agrícola Integral 🌱</h1>
+<h1 align="center">🌱 JAROConsulting - Plataforma Agrícola Integral 🌱</h1>
 
 <p align="center">
   Transformando la gestión agrícola con tecnología 🌾🚜📊
